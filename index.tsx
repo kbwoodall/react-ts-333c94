@@ -10,7 +10,7 @@ import { createContext, useContext } from 'react';
 import ReactDOM from 'react-dom';
 
 const hey = (msg: string) => {
-  alert('ok so far again ' + msg);
+  alert('ok so far ' + msg);
 };
 
 const showme = (msg: string) => {
